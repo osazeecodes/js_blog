@@ -1,0 +1,19 @@
+{
+  "name": "buttercms-javascriptblog",
+  "version": "1.0.0",
+  "description": "Welcome to my Vanilla JavaScript blog project powered by ButterCMS! In this project, I've leveraged the simplicity and power of Vanilla JavaScript along with the flexibility of ButterCMS to create a fully functional blog. Whether you're a seasoned developer or just getting started, this project provides a straightforward yet robust solution for building your own blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "parcel": "^2.10.2"
+  },
+  "dependencies": {
+    "buttercms": "^1.2.15",
+    "dotenv": "^16.3.1"
+  }
+}
